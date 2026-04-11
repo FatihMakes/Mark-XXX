@@ -29,7 +29,7 @@ Designed for speed, autonomy, and real-world usability.
 ##  Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes
+git clone github.com/FatihMakes/Mark-XXX.git
 cd mark-xxx
 python setup.py
 python main.py
@@ -56,5 +56,4 @@ Personal and non-commercial use only.
 Licensed under **Creative Commons BY-NC 4.0**.
 
 Engineered by a 17-year-old building a real JARVIS-style assistant.
-
- Star the repository to support the project.
+⭐ Star the repository to support the project.
